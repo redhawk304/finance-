@@ -1,0 +1,27 @@
+{
+  //prettier
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  //Editor
+  "editor.minimap.enabled": false,
+
+  "editor.fontSize": 10,
+  "editor.glyphMargin": false,
+  "editor.formatOnSave": true,
+  //UI
+  "window.zoomLevel": 2,
+  "workbench.sideBar.location": "right",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.layoutControl.enabled": false,
+  //Optionsals
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "codeium.enableConfig": {
+    "*": true,
+    "markdown": true,
+    "properties": true
+  }
+}
